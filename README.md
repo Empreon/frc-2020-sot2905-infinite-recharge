@@ -22,6 +22,7 @@ This repository contains the competition code for our 2020 FRC robot designed fo
   - Transport coordination
 
 ## Repository Structure
+```
 src/main/java/frc/robot/
 ├── commands
 │ ├── automode/ # Autonomous routines
@@ -43,7 +44,7 @@ src/main/java/frc/robot/
 ├── Main.java # Runing Robot.java
 ├── Robot.java # Main robot class
 └── RobotContainer.java # Control bindings
-
+```
 
 ## Dependencies
 - WPILib v2020.3.2
