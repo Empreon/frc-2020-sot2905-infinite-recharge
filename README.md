@@ -22,7 +22,7 @@ This repository contains the competition code for our 2020 FRC robot designed fo
   - Transport coordination
 
 ## Repository Structure
-```
+```mermaid
 src/main/java/frc/robot/
 ├── commands
 │ ├── automode/ # Autonomous routines
