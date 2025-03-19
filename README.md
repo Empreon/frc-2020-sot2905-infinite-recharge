@@ -62,9 +62,6 @@ src/main/java/frc/robot/
 | `gearDefenceCommand.java` | Defense positioning | Trench Run |
 | `limelightCommand.java` | Vision-aligned shooting | Power Port |
 
-## Vision Processing
-The Limelight integration uses HSV thresholding for reflective target detection:
-
 ## License
 BSD 3-Clause License - See [LICENSE](LICENSE) file for details.  
 **Important:** Maintain original FIRST copyright headers in all source files.
